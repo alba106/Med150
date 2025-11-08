@@ -1,1 +1,14 @@
-
+<!doctype html>
+<html>
+  <head>
+    <title>Collage with shape</title>
+  </head>
+  <body>
+    <h1>Homework 5: </h1>
+    <p>Here is the finished Collage for homework 5:</p>
+    <img src="FinalCollage2.png" alt="Collage 2 with shape" width="600">
+    <p>For this collage I added and created a pattern using a dollar sign I created in illustrator using 3 circles and the blend tool, to which I added various colors that contrasted with one another. I also used rectangles to complete the figure.</p>
+    <br><br>
+    <a href="index.html">Back to Home</a>
+  </body>
+</html>
