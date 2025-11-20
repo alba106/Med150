@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Environment</title>
+  </head>
+  <body>
+    <h1>Homework 6: </h1>
+  <p>The Raster Environment:</p>
+    <img src="Environment.png" alt="Image Environment" width="600">
+  <p>My Illustrator Environment:</p>
+    <img src="Artboard 1.png" alt="Environment in illustrator" width="600">
+    <p></p>
+    <br><br>
+    <a href="index.html">Back to Home</a>
+  </body>
+</html>
